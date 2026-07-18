@@ -33,6 +33,9 @@ ref: https://www.clicks4home.com/product/ts2-007/
         - Tiger
         - Cat
     - Tipical-Kemo
+        - Fox
+        - Dog
+        - Dragon
     - Anthro
         - Cat Like (Felina)
     - Protogen (Toaster)
