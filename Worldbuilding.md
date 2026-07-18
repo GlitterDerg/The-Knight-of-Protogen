@@ -45,6 +45,11 @@ ref: https://www.clicks4home.com/product/ts2-007/
     - Thunder Dragon
     - Windy Dragon (Normal Dragon)
     - Radiation Dragon
+- Wyvern
+    - Ice Dragon
+    - Fire Dragon
+    - Thunder Dragon
+    - Windy Dragon (Normal Dragon)
 - Human
 - Animal
     - Bird
